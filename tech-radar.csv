@@ -1,0 +1,9 @@
+name,ring,quadrant,isNew,description
+ArgoCD, adopt, tools, TRUE, "Monitor git for desired state and deploy to kubernetes. Avoid drift."
+GitOps,adopt, techniques, TRUE, "Declare all desired state in git."
+Trunk Based Development, adopt, techniques, TRUE, "https://trunkbaseddevelopment.com/"
+Pulumi, trial, tools, TRUE, "Terraform like behaviour in a language closer to the devs"
+Semver, adopt, techniques,TRUE, "Version techniques according to Semver 2.0"
+Conventional Commits, adopt, techniques, TRUE, "Use a uniform commit scheme. Generate Changelogs and versions from it."
+Backstage,trial,platforms,TRUE, "Build your own developer portal"
+NestJS,trial,languages,TRUE, "Nodejs framework"
